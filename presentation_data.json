@@ -1,0 +1,27 @@
+{
+    "name": "Matthew Tomas",
+    "netlify_subdomain": "https://matthewtomas-ml-presenting-cc.netlify.com/",
+    "optional_dns": "www.matthewtomas.com"
+    "blog_post_1": {
+        "title": "The article of a thousand words begins with one letter",
+        "url": "[to be determined, editing still underway]",
+        "keywords": ["writing","writing tips"]
+    },
+    "blog_post_2": {
+        "title": "9th-dimensional dog butts (part 1)",
+        "url": "[to be determined, editing still underway]",
+        "keywords": ["machine learning","artificial intelligence","PCA","principal components analysis"]
+    },
+    "blog_post_3": {
+        "title": "9th-dimensional dog butts (part 2)",
+        "url": "[to be determined, editing still underway]",
+        "keywords": ["machine learning","artificial intelligence","PCA","principal components analysis"]
+    },
+    "blog_post_4": {
+        "title": "Supercreativity: Why AI will make human artists more creative, even those who shun it",
+        "url": "[to be determined, editing still underway]",
+        "keywords": ["art","artificial intelligence","creativity","human potential"]
+    },
+    "my_linkedin": "https://www.linkedin.com/in/matthew-tomas-2b13a090/",
+    "latex": "$\\begin{bmatrix}9 & 9\\ 6 & 10\\ 5 & 7\\end{bmatrix} = \\begin{bmatrix}1& 0 & 1\\ 0 & 1 & 1\\ 0 & 0 & 1\\end{bmatrix} \\cdot \\begin{bmatrix}4 & 2\\ 1 & 3\\ 5 & 7\\end{bmatrix}$"
+}
